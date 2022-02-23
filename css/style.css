@@ -1,0 +1,9 @@
+.container{
+    border: 1px solid #a79797;
+    width: 500px;
+    height: 500px;
+    background-image: url(https://picsum.photos/id/16/200/500);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position:center;
+}
